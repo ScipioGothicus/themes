@@ -76,3 +76,10 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/catppuccin/aseprite">Catppuccin for Aseprite <br>
 <img src="https://raw.githubusercontent.com/catppuccin/aseprite/ad08aa0cb6addb68461b275188d4e31cad518855/assets/preview.webp" width="400px" /><a>
+
+----
+
+<a href="https://thkaspar.itch.io/aseprite-95-theme">Kacper Woźniak's Aseprite 95 Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvMjAwMDY1NS8xMjA1NzQ2NC5wbmc=/original/aRxOjC.png" width="400px" /><a>
+
+
